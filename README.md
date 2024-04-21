@@ -1,2 +1,1 @@
-Just my dots :P
-might be a bit messy im new to this github stuff
+Some of the files on this dot have been taken from other dots and been modified, credits: https://github.com/gh0stzk/dotfiles / https://github.com/ericmurphyxyz/dotfiles
